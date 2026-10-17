@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html lang="">
+<html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>hello</title>
     <h1>Sound from lobotomy corporation</h1>
   </head>
   <body>
